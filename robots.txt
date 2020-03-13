@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://maisaivoor.wangshunyang.com/sitemap.xml
